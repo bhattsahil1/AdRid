@@ -2,9 +2,7 @@
   "name": "AdRid",
   "icons": { "16": "adrid.png",
              "48": "adrid.png",
-             "128": "adrid.png" "icons": { "16": "icon16.png",
-           "48": "icon48.png",
-          "128": "icon128.png" },
+             "128": "adrid.png"
   },
   "version": "1.0",
   "description": "A simple adblocker",
